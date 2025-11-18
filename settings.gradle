@@ -1,0 +1,2 @@
+rootProject.name = "CallScreener"
+include ':app'
